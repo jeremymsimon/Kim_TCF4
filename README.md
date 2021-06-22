@@ -56,7 +56,7 @@ into principal cell types and brain regions as follows:
   - Data from regions generically named “CNS” or “Telencephalon”) were
     grouped into “NonNeurons”
 
-Plots were generated in `R` version 3.6.0 and plotted with `ggplot2`.
+Plots were generated in `R` version 4.0.2 and plotted with `ggplot2`.
 Error bars represent the standard error.
 
 ## Load packages
