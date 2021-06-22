@@ -64,7 +64,7 @@ Error bars represent the standard error.
     library(loomR)
     library(tidyverse)
 
-## Read in postnatal expression data and metadata
+## Read in postnatal expression data and metadata. Remove non-cortical cells.
 
 ``` r
 p0 = read_tsv("P0_combined_matrix.txt") %>% 
