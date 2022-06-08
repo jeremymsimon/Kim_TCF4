@@ -1,8 +1,9 @@
 
-## Kim et al. 2021 (in preparation)
+## Kim et al. 2022
 
 This repository contains `R` code to generate some of the figures
-presented in Kim *et al.* 2021 (*under review*).
+presented in Kim *et al.* 2022, published in _eLife_ here:
+https://elifesciences.org/articles/72290v1
 
 We used publicly available scRNA-seq data in early postnatal (P0) and
 adult mice to illustrate the cell types in which Tcf4 is most highly
